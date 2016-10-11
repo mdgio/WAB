@@ -1,0 +1,9 @@
+{
+  "titleOfRoot":"MD iMAP Layers",
+  "URLLocation": "localPath",
+  "referenceURLs": {
+    "localPath":"widgets/AddData/layerList/layerList.json",
+    "doitHosted":"//geodata.md.gov/imapadddatalist/addlayers.js",
+    "externalURL": "//geodata.md.gov/imapadddatalist/addlayers.js"
+  }
+}
